@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Kitsune	kitsune_handler.rb	/^class Kitsune$/;"	c
+ReconModule	modules/recon_module.rb	/^module ReconModule$/;"	m
+check_ports	modules/vulns_module.rb	/^def check_ports$/;"	f
+check_web_ports	modules/vulns_module.rb	/^def check_web_ports$/;"	f
+create_report_folders	modules/recon_module.rb	/^  def create_report_folders$/;"	f	class:ReconModule
+dir_search	modules/web_module.rb	/^def dir_search(port)$/;"	f
+dirb_output	modules/output_module.rb	/^def dirb_output$/;"	f
+eternal_blue	modules/output_module.rb	/^def eternal_blue$/;"	f
+get_open_ports	modules/vulns_module.rb	/^def get_open_ports$/;"	f
+handleOptions	kitsune_handler.rb	/^	def handleOptions$/;"	f	class:Kitsune
+help	kitsune_handler.rb	/^	def help$/;"	f	class:Kitsune
+initialize	kitsune_handler.rb	/^	def initialize$/;"	f	class:Kitsune
+network_recon	modules/recon_module.rb	/^  def network_recon$/;"	f	class:ReconModule
+nmap_output	modules/output_module.rb	/^def nmap_output$/;"	f
+nmap_recon	modules/nmap_module.rb	/^def nmap_recon$/;"	f
+nmap_scripts_vulns	modules/nmap_module.rb	/^ def nmap_scripts_vulns$/;"	f
+rdp_dos	modules/output_module.rb	/^def rdp_dos$/;"	f
+rdp_rce	modules/output_module.rb	/^def rdp_rce$/;"	f
+recon_smb	modules/smb_module.rb	/^def recon_smb$/;"	f
+run	kitsune_handler.rb	/^  def run$/;"	f	class:Kitsune
+smbmap_output	modules/output_module.rb	/^def smbmap_output$/;"	f
+ssl_scan	modules/tls_module.rb	/^def ssl_scan$/;"	f
+usage	kitsune_handler.rb	/^	def usage$/;"	f	class:Kitsune
+web_headers	modules/web_module.rb	/^def web_headers(port)$/;"	f
+web_ports_found	modules/web_module.rb	/^def web_ports_found$/;"	f
+web_recon	modules/web_module.rb	/^def web_recon(port)$/;"	f
+what_web	modules/web_module.rb	/^def what_web(port)$/;"	f

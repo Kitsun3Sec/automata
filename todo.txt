@@ -1,0 +1,12 @@
+help
+* print help
+
+file
+* target file
+
+tor
+* Configure the application and fireup tor proxy to perfrom whatever action
+  over socks proxy
+
+recon
+* define the behavior and what it means to perform a recon.

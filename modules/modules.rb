@@ -1,0 +1,6 @@
+require_relative 'nmap_module'
+require_relative 'web_module'
+require_relative 'output_module'
+require_relative 'smb_module'
+require_relative 'tls_module'
+require_relative 'vulns_module'
